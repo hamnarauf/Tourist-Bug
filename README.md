@@ -1,5 +1,5 @@
 # TOURIST BUG
-> Responsive webpage for a tourist company.
+> Responsive static webpage for a tourist company.
 
 ## Front-end
 - HTML
