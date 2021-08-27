@@ -14,5 +14,5 @@
 > Icons are imported from Font Awesome
 
 ## Images
-- [a link](https://www.pexels.com)
-- [a link](https://www.unsplash.com)
+- [pexels.com](https://www.pexels.com)
+- [unsplash.com](https://www.unsplash.com)
