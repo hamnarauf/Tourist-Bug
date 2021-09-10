@@ -78,6 +78,7 @@ header{
     padding: 0.625rem;
     position: sticky;
     top: 0;
+    z-index: 1000;
 }
 /* adding background of black with opacity */
 header::before{
